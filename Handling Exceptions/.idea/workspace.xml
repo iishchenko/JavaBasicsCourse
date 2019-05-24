@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="147f9622-87a4-4a60-a271-bcc97d0d9a40" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Abstract Classes/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstract Classes/src/Camera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstract Classes/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstract Classes/src/Machine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Anonymous Classes/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayList/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays_of_Strings/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/lombok.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/src/main/java/AppController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/src/main/java/adt/UnionFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/src/main/java/adt/graph/directed/DirectedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/src/main/java/adt/graph/directed/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/src/main/java/adt/graph/directed/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/src/main/java/adt/graph/undirected/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/src/main/java/adt/graph/undirected/GraphGeeks4Geeks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/src/main/java/adt/graph/undirected/GraphNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/src/main/java/adt/trees/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/src/main/java/algorithms/DepthFirstSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/src/main/java/babylonhealtexample/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/src/main/java/empaquetado/Trangallo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/src/main/java/granxa/Churra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/src/main/java/granxa/Galiforme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/src/main/java/granxa/Galinheiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/src/main/java/granxa/Galo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/src/main/java/granxa/HumanoRoubaOvos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/src/main/java/granxa/Pito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/src/main/java/javalibs/ComparatorTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/src/test/java/TrangalloTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/target/classes/AppController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/target/classes/META-INF/jTests2019.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/target/classes/adt/UnionFind.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/target/classes/adt/graph/directed/DirectedGraph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/target/classes/adt/graph/directed/Edge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/target/classes/adt/graph/directed/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/target/classes/adt/graph/undirected/Graph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/target/classes/adt/graph/undirected/GraphGeeks4Geeks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/target/classes/adt/graph/undirected/GraphNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/target/classes/adt/trees/BinarySearchTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/target/classes/algorithms/DepthFirstSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/target/classes/babylonhealtexample/App$Word.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/target/classes/babylonhealtexample/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/target/classes/empaquetado/Trangallo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/target/classes/granxa/Churra.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/target/classes/granxa/Galiforme.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/target/classes/granxa/Galinheiro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/target/classes/granxa/Galo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/target/classes/granxa/HumanoRoubaOvos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/target/classes/granxa/Pito.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/target/classes/javalibs/ComparatorTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breo_jTests/jTests/target/test-classes/TrangalloTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Casting Numerical Values/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes_and_Objects/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Constructors/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Creating and Writing Text Files/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Creating and Writing Text Files/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Do_While/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Do_While/src/App2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encapsulation and the API Docs/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Enum Types/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Enum Types/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../For_loops/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics and Wildcards/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Getters_and_Return_values/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Getting_user_input/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Getting_user_input/src/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Getting_user_input/src/Application3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo1/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo2/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo3/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HashMap/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/Machine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inner Classes/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inner Classes/src/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Basic Exercises 1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Basic Exercises 2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Basic Exercises 2/src/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Basic Exercises 4/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Basic Exercises 5/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Basic Exercises 6/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture 27_Packages/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture 27_Packages/src/Ocean/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture 27_Packages/src/Ocean/plants/Algae.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture 27_Packages/src/Ocean/plants/Seaweed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture 27_Packages/src/com/caveofprogramming/oceangame/Aquarium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture 28_Interfaces/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture 28_Interfaces/src/IStarteble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture 28_Interfaces/src/Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture 28_Interfaces/src/Machine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture 28_Interfaces/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linked Lists/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Method_Parameters/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multi-Dimensional_Arrays/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multiple Exceptions/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multiple Exceptions/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Passing by Value/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Passing by Value/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/src/Plant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/src/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Public, Private, Protected/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Public, Private, Protected/src/Grass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Public, Private, Protected/src/world/Field.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Public, Private, Protected/src/world/Oak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Public, Private, Protected/src/world/Plant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reading Files Using Scanner/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reading Files With File Reader/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reading Files With File Reader/src/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Runtime vs. Checked Exceptions/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serialization Saving Objects to Files/people.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serialization Saving Objects to Files/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serialization Saving Objects to Files/src/ReadObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serialization Saving Objects to Files/src/WriteObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serialization Saving Objects to Files/test.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sets/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Setters_and_this/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorted Maps/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Static (and Final)/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../String_Builder_and_String_Formatting/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Switch/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestAcademy/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The Equals Method/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The_toString_Method/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try-With-Resources/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try-With-Resources/src/App2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try-With-Resources/src/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tutoria1/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tutorial2/src/Tutorial2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tutorial3/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Upcasting and Downcasting/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Using generics/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../While_Loops/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../if/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../if/src/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../if/src/Application3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../if/src/Application4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../if/src/Application5.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/demo3/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/App.java" />
+        <option value="$PROJECT_DIR$/src/demo1/App.java" />
+        <option value="$PROJECT_DIR$/src/demo2/App.java" />
+        <option value="$PROJECT_DIR$/src/demo3/App.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="631" />
+    <option name="y" value="212" />
+    <option name="width" value="619" />
+    <option name="height" value="508" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Handling Exceptions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Handling Exceptions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Handling Exceptions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Handling Exceptions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Handling Exceptions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Handling Exceptions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demo3" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo1.App" />
+      <module name="Handling Exceptions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="147f9622-87a4-4a60-a271-bcc97d0d9a40" name="Default Changelist" comment="" />
+      <created>1557501039192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557501039192</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="28" width="1282" height="745" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.123176664" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3296501" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3302583" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.28597787" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/demo1/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demo2/test.txt" />
+    <entry file="file://$PROJECT_DIR$/src/demo2/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demo3/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
